@@ -7,6 +7,19 @@
  - Mongo DB
  - JavaScript
  
+ ## Install
+
+To install all the dependences of the project, run the following command:
+
+    git clone https://github.com/shakti1590/Issue-Tracker.git
+    npm install
+    npm start
+
+ 
 ### Deployment link 
  - Link - 
  
+### Source Code 
+ - https://github.com/shakti1590/Issue-Tracker
+ 
+© 2023 Shakti Singh 
