@@ -22,4 +22,5 @@ To install all the dependences of the project, run the following command:
 ### Source Code 
  - https://github.com/shakti1590/Issue-Tracker
  
-© 2023 Shakti Singh 
+ 
+##### © 2023 <a href="https://github.com/shakti1590"> Shakti Singh</a>
