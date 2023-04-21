@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Vivek Raj",
   "license": "ISC",
@@ -17,6 +17,5 @@
     "express-ejs-layouts": "^2.5.1",
     "mongodb": "^5.3.0",
     "mongoose": "^6.10.5",
-    "nodemon": "^2.0.22"
   }
 }
